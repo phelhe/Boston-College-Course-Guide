@@ -4,7 +4,7 @@ Often it is hard to visualize the order in which one should take classes to comp
 This web app attempts to solve this problem by organizing computer science and economics classes into a tree, where each line in the 
 tree diagram represents a prerequisite.
 Users select their major (implemented for computer science and economics only), the courses they have already completed, and then
-a tree is rendered that displays the remaining core courses required in order to repeat their major. At the bottom of the page, the
+a tree is rendered that displays the remaining core courses required in order to complete their major. At the bottom of the page, the
 electives for their major are rendered as well; if the user hovers over an elective, the prerequisites will be highlighted.
 Finally, if a user clicks on a class, they can see more information about the class, such as the course description and title. 
 
